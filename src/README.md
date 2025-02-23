@@ -13,7 +13,10 @@ Dieser Ordner ist der Quell-Ordner dieses Projekts und er hat daher die entsprec
 * `src/main/test/algods`: Hier befinden sich die Tests zum Java-Code.
 
 Unterhalb von `java` gibt es jeweils Pakete für den Code, der direkt in der Vorlesung entsteht
-sowie für Beispielcode, der separat bereitgestellt wird.
+([`examples`](main/java/algods/examples/README.md))
+sowie für Beispielcode, der separat bereitgestellt wird
+([`lecture`](main/java/algods/lecture/README.md)).
+Die Tests sind entsprechend in den Paketen `examples` und `lecture` unterhalb von `test` zu finden.
 
 Der Vorlesungs-Code ist in weitere Unterpakete unterteilt,
 die den jeweiligen Tag der Vorlesung repräsentieren

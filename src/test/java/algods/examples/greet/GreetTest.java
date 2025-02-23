@@ -1,6 +1,7 @@
-package algods.beispiele.greet;
+package algods.examples.greet;
 
 import org.junit.jupiter.api.Test;
+
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class GreetTest {

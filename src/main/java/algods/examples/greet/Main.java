@@ -1,4 +1,4 @@
-package algods.beispiele.greet;
+package algods.examples.greet;
 
 public class Main {
     public static void main(String[] args) {
